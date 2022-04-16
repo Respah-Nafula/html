@@ -8,26 +8,41 @@ nav ul li{
      display: flex;
 
     }
+        
+    
+
+    .family{
+        margin-top: 20%;
+    }
+
+    
     body{
-        background-color: #49e2e2;
+        background-color:#808080
 
     }
-    .family{
+    .Holder{
+        margin-top: 80%;
 
-    font-size: 24px;
+
     }
     .african{
         float: right;
         border: 15px;
         padding: 20px;
         margin: 50px;
-
+     margin-top: -10%;
     }
      .services{
-     margin-top: 50px;
-     text-align: right;
+    
+     text-align: end;
      padding-top: 20px;
+     margin-top: -5%;
 
+}
+.branches{
+    text-align: left;
+    margin-top: 20px;
+    text-align: left;
 }
 .header{
     display: inline-flex;
